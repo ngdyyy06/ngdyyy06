@@ -58,7 +58,9 @@
 <br>
 
 <br>
-<h2 align="center"> Where to find me </h2>
+<div align="center">
+  <h2>Where to find me</h2>
+</div>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
