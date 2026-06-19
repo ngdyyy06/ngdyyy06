@@ -41,6 +41,7 @@
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -61,15 +62,15 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/duy.nguyen.339426?locale=vi_VN" target="_blank">
-    <img src="https://icons8.com/icon/POyzG8REK3sD/facebook" alt="duynguyen-facebook" />
+    <img src="https://img.icons8.com/?size=100&id=POyzG8REK3sD&format=png&color=000000" alt="duynguyen-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/duy-nguyen-7482b8418/" target="_blank">
-    <img src="https://icons8.com/icon/9pFq5Dj6Mz1d/linkedin" alt="duynguyen-linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=000000" alt="duynguyen-linkedin" />
   </a>
   <a href="https://www.instagram.com/ngdyyy/" target="_blank">
-    <img src="https://icons8.com/icon/KDWXXYcBSEcJ/instagram" alt="duynguyen-instagram" />
+    <img src="https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=000000" alt="duynguyen-instagram" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="top">
-    <img src="https://icons8.comundefined" alt="duynguyen-email" />
+    <img src="https://img.icons8.com/?size=100&id=7X2DNQH7dVDS&format=png&color=000000" alt="duynguyen-email" />
   </a>
 </div>
