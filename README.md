@@ -55,6 +55,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ngdyyy06&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
+<br>
 
 <br>
 <h2 align="center"> Where to find me </h2>
@@ -62,13 +63,13 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/duy.nguyen.339426?locale=vi_VN" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=POyzG8REK3sD&format=png&color=#FFFFFF" alt="duynguyen-facebook" />
+    <img src="https://img.icons8.com/?size=100&id=POyzG8REK3sD&format=png&color=FFFFFF" alt="duynguyen-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/duy-nguyen-7482b8418/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=9pFq5Dj6Mz1d&format=png&color=#FFFFFF" alt="duynguyen-linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=9pFq5Dj6Mz1d&format=png&color=FFFFFF" alt="duynguyen-linkedin" />
   </a>
   <a href="https://www.instagram.com/ngdyyy/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=#FFFFFF" alt="duynguyen-instagram" />
+    <img src="https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=FFFFFF" alt="duynguyen-instagram" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="top">
     <img src="https://img.icons8.com/?size=100&id=7X2DNQH7dVDS&format=png&color=FFFFFF" alt="duynguyen-email" />
