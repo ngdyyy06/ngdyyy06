@@ -71,6 +71,6 @@
     <img src="https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=#FFFFFF" alt="duynguyen-instagram" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="top">
-    <img src="https://img.icons8.com/?size=100&id=7X2DNQH7dVDS&format=png&color=#FFFFFF" alt="duynguyen-email" />
+    <img src="https://img.icons8.com/?size=100&id=7X2DNQH7dVDS&format=png&color=FFFFFF" alt="duynguyen-email" />
   </a>
 </div>
